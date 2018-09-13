@@ -1,0 +1,10 @@
+c:\users\blink\documents\visual studio 2015\Projects\SubwayApplicationtest\SubwayApplicationtest\bin\Debug\SubwayApplicationtest.exe.config
+c:\users\blink\documents\visual studio 2015\Projects\SubwayApplicationtest\SubwayApplicationtest\bin\Debug\SubwayApplicationtest.exe
+c:\users\blink\documents\visual studio 2015\Projects\SubwayApplicationtest\SubwayApplicationtest\bin\Debug\SubwayApplicationtest.pdb
+c:\users\blink\documents\visual studio 2015\Projects\SubwayApplicationtest\SubwayApplicationtest\obj\Debug\SubwayApplicationtest.csprojResolveAssemblyReference.cache
+c:\users\blink\documents\visual studio 2015\Projects\SubwayApplicationtest\SubwayApplicationtest\obj\Debug\SubwayApplicationtest.Form1.resources
+c:\users\blink\documents\visual studio 2015\Projects\SubwayApplicationtest\SubwayApplicationtest\obj\Debug\SubwayApplicationtest.Properties.Resources.resources
+c:\users\blink\documents\visual studio 2015\Projects\SubwayApplicationtest\SubwayApplicationtest\obj\Debug\SubwayApplicationtest.csproj.GenerateResource.Cache
+c:\users\blink\documents\visual studio 2015\Projects\SubwayApplicationtest\SubwayApplicationtest\obj\Debug\SubwayApplicationtest.exe
+c:\users\blink\documents\visual studio 2015\Projects\SubwayApplicationtest\SubwayApplicationtest\obj\Debug\SubwayApplicationtest.pdb
+C:\Users\Blink\documents\visual studio 2015\Projects\SubwayApplicationtest\SubwayApplicationtest\obj\Debug\SubwayApplicationtest.Form2.resources
